@@ -1,8 +1,12 @@
 import spacy
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    nlp = spacy.blank("en")
+
+def load_nlp():
+    try:
+        return spacy.load("en_core_web_sm")
+    except Exception:
+        return spacy.blank("en")
+
+nlp = load_nlp()
 
 def extract_entities(text):
     doc = nlp(text)
@@ -19,4 +23,3 @@ def extract_entities(text):
             entities[ent.label_].append(ent.text)
 
     return entities
-

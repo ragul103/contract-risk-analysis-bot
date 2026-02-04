@@ -1,0 +1,27 @@
+SERVICE AGREEMENT
+
+This Service Agreement is made on 15 March 2023 between XYZ Solutions Pvt Ltd (the "Service Provider") and Alpha Retail LLP (the "Client").
+
+1. Scope of Services
+The Service Provider shall provide software development and maintenance services to the Client.
+
+2. Fees and Payment
+The Client shall pay a monthly service fee of Rs. 1,20,000 within 15 days from the date of invoice.
+
+3. Term and Renewal
+This agreement shall be valid for an initial period of one year and shall automatically renew for successive one-year terms unless terminated earlier.
+
+4. Termination
+The Client may terminate this agreement at any time without providing any notice or reason.
+
+5. Indemnity
+The Service Provider shall indemnify and hold harmless the Client against all losses, claims, and damages arising out of this agreement.
+
+6. Confidentiality
+Both parties shall keep all confidential information strictly confidential.
+
+7. Limitation of Liability
+The total liability of the Service Provider shall not exceed the fees paid in the last three months.
+
+8. Governing Law and Jurisdiction
+This agreement shall be governed by the laws of India and subject to the exclusive jurisdiction of the courts of Mumbai.

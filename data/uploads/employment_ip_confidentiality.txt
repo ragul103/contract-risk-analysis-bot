@@ -1,0 +1,21 @@
+EMPLOYMENT AGREEMENT
+
+This agreement is entered into on 5 January 2024 between SoftBuild Technologies Pvt Ltd and Ramesh S.
+
+1. Employment Role
+The Employee shall work as a Software Engineer and develop applications and internal tools.
+
+2. Intellectual Property
+Any invention, software, or work product created by the Employee during the course of employment shall belong exclusively to the Company.
+
+3. Confidentiality and NDA
+The Employee shall not disclose confidential information during or after the term of employment.
+
+4. Non-Compete
+The Employee shall not engage in competing business activities for one year after termination.
+
+5. Termination
+The Company may terminate the employment at any time without notice.
+
+6. Governing Law
+This agreement shall be governed by the laws of India and subject to the jurisdiction of Bangalore.
